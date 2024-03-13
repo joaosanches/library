@@ -1,8 +1,8 @@
 {
     "name": "joaosanches/library",
     "require": {
-        "joaosanches/library-date": "0.1.0",
-        "joaosanche/library-string": "0.1.0",
-        "joaosanche/library-float": "0.1.0"
+        "joaosanches/library-date": "1.1.0",
+        "joaosanches/library-string": "1.1.0",
+        "joaosanches/library-float": "1.1.0"
     }
 }
