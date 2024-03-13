@@ -1,5 +1,19 @@
 {
     "name": "joaosanches/library",
+    "repositories": [
+        {
+            "type": "path",
+            "url": "library/date"
+        },
+        {
+            "type": "path",
+            "url": "library/string"
+        },
+        {
+            "type": "path",
+            "url": "library/float"
+        }
+    ], 
     "require": {
         "joaosanches/library-date": "1.1.0",
         "joaosanches/library-string": "1.1.0",
